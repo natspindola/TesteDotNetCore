@@ -1,0 +1,16 @@
+C:\dev\TesteDotNetCore\bin\Debug\net5.0\TesteDotNetCore.exe
+C:\dev\TesteDotNetCore\bin\Debug\net5.0\TesteDotNetCore.deps.json
+C:\dev\TesteDotNetCore\bin\Debug\net5.0\TesteDotNetCore.runtimeconfig.json
+C:\dev\TesteDotNetCore\bin\Debug\net5.0\TesteDotNetCore.runtimeconfig.dev.json
+C:\dev\TesteDotNetCore\bin\Debug\net5.0\TesteDotNetCore.dll
+C:\dev\TesteDotNetCore\bin\Debug\net5.0\ref\TesteDotNetCore.dll
+C:\dev\TesteDotNetCore\bin\Debug\net5.0\TesteDotNetCore.pdb
+C:\dev\TesteDotNetCore\obj\Debug\net5.0\TesteDotNetCore.csprojAssemblyReference.cache
+C:\dev\TesteDotNetCore\obj\Debug\net5.0\TesteDotNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TesteDotNetCore\obj\Debug\net5.0\TesteDotNetCore.AssemblyInfoInputs.cache
+C:\dev\TesteDotNetCore\obj\Debug\net5.0\TesteDotNetCore.AssemblyInfo.cs
+C:\dev\TesteDotNetCore\obj\Debug\net5.0\TesteDotNetCore.csproj.CoreCompileInputs.cache
+C:\dev\TesteDotNetCore\obj\Debug\net5.0\TesteDotNetCore.dll
+C:\dev\TesteDotNetCore\obj\Debug\net5.0\ref\TesteDotNetCore.dll
+C:\dev\TesteDotNetCore\obj\Debug\net5.0\TesteDotNetCore.pdb
+C:\dev\TesteDotNetCore\obj\Debug\net5.0\TesteDotNetCore.genruntimeconfig.cache
